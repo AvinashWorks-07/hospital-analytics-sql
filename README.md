@@ -98,6 +98,24 @@ hospital-analytics-sql/
 13. Data quality validation
 14. Query optimization and index usage
 
+## SQL Analysis Results
+
+### 1. Database Row Counts
+
+![Database Row Counts](results/screenshots/01_row_counts.png)
+
+### 2. Monthly Encounter Analysis
+
+![Monthly Encounter Analysis](results/screenshots/02_monthly_encounters.png)
+
+### 3. Payer Coverage Analysis
+
+![Payer Coverage Analysis](results/screenshots/03_payer_analysis.png)
+
+### 4. Query Performance Analysis
+
+![Query Performance Analysis](results/screenshots/04_query_optimization.png)
+
 ## Database Engineering
 
 - Designed normalized relational tables with primary and foreign keys.

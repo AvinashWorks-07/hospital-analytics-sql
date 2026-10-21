@@ -1,0 +1,7 @@
+
+data/raw/
+*.csv
+*.zip
+.vscode/
+.env
+.DS_Store

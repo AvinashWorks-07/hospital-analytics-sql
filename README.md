@@ -55,6 +55,12 @@ The project uses synthetic healthcare data based on CSV files for:
 
 These counts represent the recorded database load and should be revalidated if the dataset is reloaded.
 
+## Entity Relationship Diagram
+
+The following ER diagram illustrates the relationships between the nine core tables in the hospital analytics database.
+
+![Hospital Analytics ER Diagram](docs/er_diagram.png)
+
 ## Project Structure
 
 ```text
